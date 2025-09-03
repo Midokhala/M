@@ -12,8 +12,8 @@ div.name{
 
     
 img{display: inline;
-   max-width: 500px; 
-   max-height:700px; 
+   max-width: 300px; 
+   max-height:500px; 
 border-radius: 3%;
 padding-left: 15%;
 background-position: center;
@@ -53,5 +53,6 @@ div.container{background-image: linear-gradient(to top right, rgb(45, 101, 165)3
 width:100%
               hight:100%
 }
+
 
 
