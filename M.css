@@ -41,7 +41,7 @@ label{
     bottom: 0%;
     right: 2%;
     font-weight: bold;
-    display: sticky;
+    
 }
 
 
@@ -53,4 +53,5 @@ div.container{background-image: linear-gradient(to top right, rgb(45, 101, 165)3
 width:100%
               hight:100%
 }
+
 
