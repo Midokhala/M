@@ -16,6 +16,7 @@ img{display: inline;
    max-height:700px; 
 border-radius: 3%;
 padding-left: 15%;
+background-position: center;
 
 }
 div.image{
@@ -48,5 +49,6 @@ label{
     
 
 div.container{background-image: linear-gradient(to top right, rgb(45, 101, 165)30%, rgb(22, 5, 58)70%);
+
 
 }
