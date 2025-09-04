@@ -41,6 +41,7 @@ div.info{
     color: #752c0a;
    flex-shrink: 10; }
 label{
+    a:hover {color : red ; }
   color: rgb(48, 30, 17);
     position: absolute;
     display: inline;
@@ -64,6 +65,7 @@ height: 100vh;
    border: #0c0125 solid 25px;
             
 }
+
 
 
 
