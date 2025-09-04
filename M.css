@@ -62,9 +62,10 @@ div.container{background-image: linear-gradient(to top right, rgb(45, 101, 165)3
 width: 100%;
 height: 100vh;
                 flex-shrink: 10; 
-   border: #0c0125 solid 25px;
+   border: #0c0125 solid 10px;
             
 }
+
 
 
 
