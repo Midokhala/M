@@ -11,36 +11,44 @@ div.name{
 }
 
     
-img{display: inline;
+img{
+    position: absolute;
+    bottom: 25%;
+    left: 50%;
    max-width: 300px; 
-   max-height:500px; 
+   max-height:300px; 
 border-radius: 3%;
-padding-left: 15%;
-background-position: center;
+
+
+   flex-shrink: 10; 
 
 }
 div.image{
     background-color:none;
 }
 div.info{
-    display: flex;
+ 
+     display: flex;
     position: absolute;
-    left: 60%;
-    top: 20%;
-    background-color:none;
     display: inline;
-    font-size: 150%;
+    top: 30%;
+    left: 20%;
+       background-color:none;
+    
+    font-size: 125%;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(117, 44, 10);
-}
+    color: #752c0a;
+   flex-shrink: 10; }
 label{
-    color: rgb(82, 78, 75);
+  color: rgb(48, 30, 17);
     position: absolute;
     display: inline;
     bottom: 0%;
     right: 2%;
     font-weight: bold;
+   flex-shrink: 10; 
+    
     
 }
 
@@ -52,8 +60,11 @@ div.container{background-image: linear-gradient(to top right, rgb(45, 101, 165)3
 
 width: 100%;
 height: 100vh;
+                flex-shrink: 10; 
+   border: #0c0125 solid 5px;
             
 }
+
 
 
 
