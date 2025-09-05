@@ -1,4 +1,4 @@
-div.name{
+rdiv.name{
     background-color: none;
     
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -36,7 +36,7 @@ div.info{
        background-color:none;
     
     font-size: 125%;
-    font-weight: bold;
+    font-weight: bolder;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #752c0a;
    flex-shrink: 10; }
@@ -67,6 +67,7 @@ box-sizing:content-box;
 border-radius: 1%;
             
 }
+
 
 
 
