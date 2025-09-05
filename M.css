@@ -37,7 +37,7 @@ div.info{
     
     font-size: 125%;
     font-weight: bolder;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
     color: #752c0a;
    flex-shrink: 10; }
 label{
@@ -67,6 +67,7 @@ box-sizing:content-box;
 border-radius: 1%;
             
 }
+
 
 
 
