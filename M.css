@@ -59,14 +59,15 @@ label{
 
 div.container{background-image: linear-gradient(to top right, rgb(45, 101, 165)30%, rgb(22, 5, 58)70%);
 
-width: 95%;
-height: 95vh;
+width: 100%;
+height: 100vh;
                 flex-shrink: 10; 
    border: #0c0125 solid 0px;
 box-sizing:content-box;
 border-radius: 1%;
             
 }
+
 
 
 
